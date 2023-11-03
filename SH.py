@@ -25,6 +25,12 @@ def start_loop():
             continue
 
 
+print("""Shop Helper is now running!
+
+Press ' to turn the image detection ON/OFF.
+
+""")
+
 keyboard.add_hotkey("'", start_stop)
 
 start_loop()
