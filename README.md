@@ -6,7 +6,7 @@ A simple program that will detect itens in player's shop and move your mouse to 
 
 Download Shop Helper from this [link](https://github.com/ils94/ShopHelper/releases/download/release/SH.zip)
 
-Open Shope Helper and go to any player's shop that contains the item you are looking for. Then, use Window's snipping tool to save the picture of the item you are looking for inside the folder: 
+Open Shop Helper and go to any player's shop that contains the item you are looking for. Then, use Window's snipping tool to save the picture of the item you are looking for inside the folder: 
 
 "C:\Users\YOURUSER\Documents\ShopHelper\Detection" 
 
